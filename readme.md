@@ -15,6 +15,7 @@ https://developers.google.com/drive/api/v3/quickstart/nodejs
 * npm start
 * A message in the terminal will ask you to go to a url and grant access to get the token. Then you will have to copy and paste this value into the console prompt
 * A token.json file should be generated
+* do npm start again
 * When token.json exists the web server will start as normal
 * Go to http://localhost:4001/ and drag a file into the browser
 * The file will be uploaded to the root directory of drive
